@@ -112,18 +112,7 @@ n is less than three.
 Note: Use the break statement to stop a
 loop before condition evaluates to true.
 ```
-# LOOP while
-```
-The **while statement** creates a loop that
-executes a specified statement as long as
-the test condition evaluates to true. The
-condition is evaluated before executing the
-statement.
-The following while loop iterates as long as
-n is less than three.
-**Note**: Use the break statement to stop a
-loop before condition evaluates to true.
-```
+
 # LOOP Do/while
 ```
 The **do...while** statement creates a loop
