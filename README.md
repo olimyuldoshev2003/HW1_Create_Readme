@@ -114,6 +114,41 @@ of a switch statement will be
 jumped to if no case matches the
 expression's value.
 
+<p style="font-size:22px">Example:</p>
+
+```
+const grade = 87;
+
+switch (true) {
+	// If score is 90 or greater
+	case grade >= 90:
+		console.log("A");
+		break;
+	// If score is 80 or greater
+	case grade >= 80:
+		console.log("B");
+		break;
+	// If score is 70 or greater
+	case grade >= 70:
+		console.log("C");
+		break;
+	// If score is 60 or greater
+	case grade >= 60:
+		console.log("D");
+		break;
+	// Anything 59 or below is failing
+	default:
+		console.log("F");
+}
+```
+
+<p style="font-size:22px">Output:</p>
+
+```
+Output
+'B'
+```
+
 # LOOPS
 
 In JS we have three type of loops:
