@@ -1,6 +1,6 @@
 > # HW1_Create_Readme 
 
->## JS Lecture-1
+> ## JS Lecture-1
 
 > # Getting started with javascript
 ```
@@ -37,7 +37,7 @@ JavaScript in several ways:
 1. Open your browser and right click in any empty area and select inspect or press F12.
 2. Open the developer tools and go to Console tab. Write the Javascript code and press Enter
 ```
-# 2. Using Node.js
+> # 2. Using Node.js
 ```
 Node is a back-end environment for executing JavaScript
 code. To run JS using Node.js, follow these steps:
@@ -46,7 +46,7 @@ code. To run JS using Node.js, follow these steps:
 3. Run node hello.js
 4. See the result
 ```
-# 3. By creating web pages 
+> # 3. By creating web pages 
 ```
 JavaScript was initially created to make web pages
 interactive, that's why JavaScript and HTML go hand in
@@ -55,7 +55,7 @@ hand. To run JS from a webpage, follow these steps:
 2. Create index.html, script.js files
 3. Write shown line of codes
 ```
-# JavaScript Variables and Constants
+> # JavaScript Variables and Constants
 ```
 In programming, a variable is a container (storage area) to hold data.
 In Javascript there is two types of intializing variables, var and let. You can use both of them.
@@ -64,14 +64,14 @@ However, there are some differences between them.
 If you are sure that the value of a variable won't change throughout the program, it's recommended
 to use const .
 ```
-# Rules for Naming JavaScript Variables
+> # Rules for Naming JavaScript Variables
 ```
 1. Variable names must start with either a letter, an underscore _, or the dollar sign $
 2. Variable names cannot start with numbers. For example:
 let 1simpleText = 'Javascript is really simple';
 console.log(1simpleText);
 ```
-# CONDITION Switch statment
+> # CONDITION Switch statment
 ```
 The switch statement evaluates
 an expression, matching the
@@ -85,7 +85,7 @@ of a switch statement will be
 jumped to if no case matches the
 expression's value.
 ```
-# LOOP for
+> # LOOP for
 ```
 The for statement creates a loop that
 consists of three optional expressions,
