@@ -2,7 +2,7 @@
 ## JS Lecture-1
 
 # Getting started with javascript
-    JavaScript is a **popular programming**
+JavaScript is a **popular programming**
 language that has a wide range of
 applications.
 JavaScript was previously used mainly for
